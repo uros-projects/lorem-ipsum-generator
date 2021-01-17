@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lorem-ipsum-generator/static/css/main.3f171b9a.chunk.css",
+    "main.js": "/lorem-ipsum-generator/static/js/main.298c4548.chunk.js",
+    "main.js.map": "/lorem-ipsum-generator/static/js/main.298c4548.chunk.js.map",
+    "runtime-main.js": "/lorem-ipsum-generator/static/js/runtime-main.b6efcc24.js",
+    "runtime-main.js.map": "/lorem-ipsum-generator/static/js/runtime-main.b6efcc24.js.map",
+    "static/js/2.f2145fb3.chunk.js": "/lorem-ipsum-generator/static/js/2.f2145fb3.chunk.js",
+    "static/js/2.f2145fb3.chunk.js.map": "/lorem-ipsum-generator/static/js/2.f2145fb3.chunk.js.map",
+    "index.html": "/lorem-ipsum-generator/index.html",
+    "static/css/main.3f171b9a.chunk.css.map": "/lorem-ipsum-generator/static/css/main.3f171b9a.chunk.css.map",
+    "static/js/2.f2145fb3.chunk.js.LICENSE.txt": "/lorem-ipsum-generator/static/js/2.f2145fb3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6efcc24.js",
+    "static/js/2.f2145fb3.chunk.js",
+    "static/css/main.3f171b9a.chunk.css",
+    "static/js/main.298c4548.chunk.js"
+  ]
+}
